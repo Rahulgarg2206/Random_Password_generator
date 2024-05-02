@@ -48,7 +48,7 @@ This is a Python script that generates strong and secure passwords with an intui
 
 
 ## Visiter
-<img src="https://profile-counter.glitch.me/rahulgarg2206/Random_Password_generator/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/rahulgarg2206/count.svg" alt="Visitors">
 
 
 
